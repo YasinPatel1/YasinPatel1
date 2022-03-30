@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YasinPatel1
 - 👀 I’m interested in Coding and Testing
-- 🌱 I’m currently learning React and Selenium
+- 🌱 I’m currently learning React, JavaScript and Selenium
 
 <!---
 YasinPatel1/YasinPatel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
