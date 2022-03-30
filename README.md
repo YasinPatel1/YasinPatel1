@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YasinPatel1
-- 👀 I’m interested in coding and testing
+- 👀 I’m interested in Coding and Testing
 - 🌱 I’m currently learning React and Selenium
 
 <!---
